@@ -10,7 +10,7 @@ https://www.adafruit.com/product/3367
 https://www.adafruit.com/product/3369
 
 Requires Linux. PJSUA and minimodem must be installed. The BBS uses shell scripts and javascript to relay messages via minimodem over VoIP.
-Start PJSUA then start the phoneMonitor.sh script
+On the server side, start PJSUA then start the phoneMonitor.sh script
 
 http://www.whence.com/minimodem/
 
